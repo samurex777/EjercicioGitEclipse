@@ -8,7 +8,7 @@ public class Main {
 		
 		Alumno pepe = new Alumno("pepe", "Jimenez", "3423234B");
 		
-		
+		System.out.println(pepe);
 	}
 
 }
